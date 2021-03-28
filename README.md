@@ -1,6 +1,8 @@
 ## Markdown
-+ [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html){:target="_blank"}
-+ [Демо-страница Markdownх](https://markdown-here.com/livedemo.html){:target="_blank"}
++ [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html)
++ [Markdown tutorial in 10 minuts](https://commonmark.org/help/tutorial)
++ [Online Markdown Editor](https://dillinger.io)
++ [Демо-страница Markdownх](https://markdown-here.com/livedemo.html)
 
 ## Git 
 + [Git, базовый курс от GeekBrains](https://gb.ru/chapters/7831)
