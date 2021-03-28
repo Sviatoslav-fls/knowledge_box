@@ -2,7 +2,7 @@
 + [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html)
 + [Markdown tutorial in 10 minuts](https://commonmark.org/help/tutorial)
 + [Online Markdown Editor](https://dillinger.io)
-+ [Демо-страница Markdownх](https://markdown-here.com/livedemo.html)
++ [Демо-страница Markdown](https://markdown-here.com/livedemo.html)
 
 ## Git 
 + [Git, базовый курс от GeekBrains](https://gb.ru/chapters/7831)
@@ -13,3 +13,15 @@
 + [Шпаргалка по Git (Eng)](https://education.github.com/git-cheat-sheet-education.pdf)
 + [Игра - обучалка по Git](https://learngitbranching.js.org/)
 + [Генератор файлов ignore](https://www.toptal.com/developers/gitignore)
+
+## JavaScript
++ [Современный учебник JavaScript](https://learn.javascript.ru)
++ [Бесплатный курс JavaScript 30](https://javascript30.com)
++ [Огромный выбор задач на Сodewars](https://www.codewars.com)
++ [https://replit.com/languages/javascript](https://replit.com/languages/javascript)
+
+
+## RS School
+
+### Как выполнять задания
++ [Как выполнить задания Markdown & Git и HTML, CSS & Git Basics](https://www.notion.so/Markdown-Git-HTML-CSS-Git-Basics-6d4ff037668c4a56929574fec05793f5)
