@@ -23,21 +23,19 @@
 
 
 ## RS School
-### Usefulness
-[Code Guide HTML & CSS](https://codeguide.co)
-[Классный сайт с гайдом о правильной вёрстке](https://webref.ru/layout/learn-html-css​)
-[ Как правильно "подключать" svg иконки чтобы "гибко" работать с ними (fill, bacground и т.д.)](https://habr.com/ru/post/260645/​)
-[Как пользоваться Figma](https://www.youtube.com/watch?v=z6mlq...​)
-[ Какую программу использовать для работы с кодом?](https://www.youtube.com/watch?v=5YW71...​)
-[Work with GIT](https://www.youtube.com/watch?v=QlgZZ...​)
+#### Usefulness
++ [Code Guide HTML & CSS](https://codeguide.co)
++ [Классный сайт с гайдом о правильной вёрстке](https://webref.ru/layout/learn-html-css​)
++ [Codepen](https://codepen.io/)
++ [Coursera](https://ru.coursera.org/)
++ [Freecodecamp](https://www.freecodecamp.org/)
++ [ Как правильно "подключать" svg иконки чтобы "гибко" работать с ними (fill, bacground и т.д.)](https://habr.com/ru/post/260645/​)
++ [Как пользоваться Figma](https://www.youtube.com/watch?v=z6mlq...​)
++ [ Какую программу использовать для работы с кодом?](https://www.youtube.com/watch?v=5YW71...​)
++ [Work with GIT](https://www.youtube.com/watch?v=QlgZZ...​)
 
-### Как выполнять задания
+#### Как выполнять задания
 + [Как выполнить задания Markdown & Git и HTML, CSS & Git Basics](https://www.notion.so/Markdown-Git-HTML-CSS-Git-Basics-6d4ff037668c4a56929574fec05793f5)
-
-
-[Codepen](https://codepen.io/)
-[Coursera](https://ru.coursera.org/)
-[Freecodecamp](https://www.freecodecamp.org/)
 
 ## Algorithm
 + [Фильм от BBC по алгоритмам](https://www.youtube.com/watch?v=OgXQRoPnqeQ)
