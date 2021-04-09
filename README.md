@@ -30,6 +30,7 @@
 + [Бесплатный курс JavaScript 30](https://javascript30.com)
 + [Огромный выбор задач на Сodewars](https://www.codewars.com)
 + [https://replit.com/languages/javascript](https://replit.com/languages/javascript)
++ [Курсы](https://coursehunter.net/course/javascript-dlya-nachinayushchih)
 
 ## Algorithm
 + [Фильм от BBC по алгоритмам](https://www.youtube.com/watch?v=OgXQRoPnqeQ)
@@ -55,3 +56,9 @@
 + [freepik](https://www.freepik.com/free-photos-vectors/cv-template)
 + [canva](https://www.canva.com/resumes/templates/)
 
+
+[Курс по командной строке](https://commandlinepoweruser.com/)
+[Менеджер курсов](https://courses.wesbos.com/account)
+[Терминал2 для mac](https://iterm2.com)
+[Темы для терминала](https://ohmyz.sh)
+[wesbos](https://github.com/wesbos)
