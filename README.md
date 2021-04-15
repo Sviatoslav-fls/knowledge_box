@@ -37,6 +37,8 @@
 + [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"](https://ru.pdfdrive.com/Грокаем-алгоритмы-e186671794.html)
 
 ## RS School
+
+[Youtube RS School](https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug)
 #### Usefulness
 + [Code Guide HTML & CSS](https://codeguide.co)
 + [Классный сайт с гайдом о правильной вёрстке](https://webref.ru/layout/learn-html-css​)
@@ -62,3 +64,19 @@
 [Терминал2 для mac](https://iterm2.com)
 [Темы для терминала](https://ohmyz.sh)
 [wesbos](https://github.com/wesbos)
+
+[курсы](https://yalpi.org/)
+[курсы](https://morioh.com/)
+[курсы](https://code.mu/)
+[курсы](https://coursehunter.net/course/javascript-dlya-nachinayushchih)
+[курсы](https://coursehunter.net/source/vladilen-minin-vladilen-dev)
+
+
+[Как сделать](https://html5css.ru/howto/howto_css_menu_icon.php)
+
+[Codepen](https://codepen.io/)
+
+[Обучение metalamp](https://www.metalamp.io/education)
+[Обучение metalamp](https://github.com/fullstack-development/developers-roadmap/tree/master/frontend/junior-2)
+[rizzoma](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_bfmhj/)
+[Полезности](https://github.com/crecotun/ui-developer-skills#Английский-язык)
